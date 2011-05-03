@@ -1,4 +1,4 @@
-#Devices to be controlled by Freezer.
+# Devices to be controlled by Freezer.
 
 = Introduction =
 
@@ -7,7 +7,5 @@ This page contains a list of devices that should be controlled by Freezer.
 = Details =
 
 Multiple cameras Canon 500D
-
-Line laser
 
 Multiple pocket wizards.
