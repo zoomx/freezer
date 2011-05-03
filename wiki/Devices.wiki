@@ -14,4 +14,4 @@ Multiple pocket wizards.
 
 http://code.google.com/p/freezer/source/browse/wiki/images/CameraLogic.svg
 
-<img src="http://code.google.com/p/freezer/source/browse/wiki/images/CameraLogic.svg">
+http://freezer.googlecode.com/svn/wiki/images/CameraLogic.svg
