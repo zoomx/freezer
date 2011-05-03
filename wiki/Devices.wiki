@@ -12,8 +12,16 @@ Multiple pocket wizards.
 
 == Canon 550D schema ==
 
-Each camera focus and shutter can be controlled by a sub-mini phone stereo 2.5mm male plug
+Each camera focus and shutter can be controlled by a sub-mini phone stereo 2.5mm male plug.
 
 http://freezer.googlecode.com/svn/wiki/images/StereoPlug25mm.png
 
+When the focus line is short circuited to the ground, the camera automatically focus on the target. If the lens is set to manual focus or if the camera "Shutter/AE lock" custom function is set to disable the autofocus, the camera simply goes into an active state.
+
+When the shutter line is short circuited to the ground the camera shoots. The shutter response is faster when the camera is in active state. 
+
+The equivalent circuit of a Canon 550D is shown here.
+
 http://freezer.googlecode.com/svn/wiki/images/CameraLogic.png
+
+The camera focus/shutter button shares the same circuit of the stereo plug.
