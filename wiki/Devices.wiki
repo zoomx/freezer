@@ -1,11 +1,15 @@
-# Devices to be controlled by Freezer.
+= Devices controlled by Freezer =
 
-= Introduction =
+== Introduction ==
 
 This page contains a list of devices that should be controlled by Freezer.
 
-= Details =
+== Details ==
 
-Multiple cameras Canon 500D
+Multiple cameras Canon 550D
 
 Multiple pocket wizards.
+
+== Canon 550D schema ==
+
+http://code.google.com/images/CameraLogic
