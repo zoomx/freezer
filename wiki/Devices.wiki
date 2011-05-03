@@ -16,7 +16,7 @@ Each camera focus and shutter can be controlled by a sub-mini phone stereo 2.5mm
 
 http://freezer.googlecode.com/svn/wiki/images/StereoPlug25mm.png
 
-When the focus line is short circuited to the ground, the camera automatically focus on the target. If the lens is set to manual focus or if the camera "Shutter/AE lock" custom function is set to disable the autofocus, the camera simply goes into an active state.
+When the focus line is short circuited to the ground, the camera automatically focuses on the target. If the lens is set to manual focus or if the camera "Shutter/AE lock" custom function is set to disable the autofocus, the camera simply goes into an active state.
 
 When the shutter line is short circuited to the ground the camera shoots. The shutter response is faster when the camera is in active state. 
 
