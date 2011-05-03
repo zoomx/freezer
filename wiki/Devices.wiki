@@ -12,4 +12,4 @@ Multiple pocket wizards.
 
 == Canon 550D schema ==
 
-http://code.google.com/images/CameraLogic
+[http://code.google.com/p/freezer/source/browse/wiki/images/CameraLogic.svg]
