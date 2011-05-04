@@ -36,4 +36,8 @@ All the information about Arduino boards can be found at the following link.
 http://arduino.cc/en/Main/ArduinoBoardNano
 
 The Arduino Nano has been chosen because it is small, can be controlled by a computer using a USB cable and highly configurable.
+
+Following a reference schema for the board.
+
+http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  
