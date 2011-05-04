@@ -29,9 +29,7 @@ The camera focus/shutter button shares the same circuit of the stereo plug.
 
 == Arduino Nano ==
 
-To trigger all the cameras at the same the following board has been choosen: Arduino Nano V3.0 AVR ATmega328 P-20AU USB board 3.0.
-
-All the information about Arduino boards can be found at the following link.
+To trigger all the cameras at the same the following board has been choosen: Arduino Nano V3.0 AVR ATmega328 P-20AU USB board 3.0. All the information about Arduino boards can be found at the following link.
 
 http://arduino.cc/en/Main/ArduinoBoardNano
 
