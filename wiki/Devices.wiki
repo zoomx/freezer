@@ -46,5 +46,12 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  * 4 x Optoisolator LTV847
  * 6 x 16 pin DIP socket
 
+== Links ==
+
+Photoduino
+http://code.google.com/p/photoduino
+
+Camera Axe
+http://www.cameraaxe.com
 
  
