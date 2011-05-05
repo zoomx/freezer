@@ -1,0 +1,120 @@
+#Setting computer-side utilities for Arduino Nano + 2 Sample progs
+
+1. Computer side
+   
+   Programming to the Arduino is done through C progamming, using the
+   software provided by Arduino website:
+   http://arduino.cc/en/Main/Software
+
+   Once the program is open it's all self explanetry...
+
+   Before compiling any code, you need to select the type of board you
+   will be using: Tools -> Board -> Arduino Nano.
+   
+   Programs for the Arduino are refered to as "Sketches".
+   Once you have succesfully compiled a sketch, plug the Arduino board
+   in via USB, then click on the "Upload" icon of the compiler.
+
+
+2. Programs
+
+                                    A
+
+   Here is a simple piece of code that will flash the onbaord LED
+   on/off:
+
+int ledPin = 13;
+
+void setup()
+{
+  //initialize pins as outputs
+  pinMode(ledPin, OUTPUT);
+  
+}
+
+void loop()
+{
+  digitalWrite(ledPin, HIGH);
+  delay(1000);
+  digitalWrite(ledPin, LOW);
+  delay(1000);
+  
+}
+
+
+                                   B
+
+   This program, providing you have a camera, flash and piezo element,
+   will trigger the camera and flash when a certain level of sound is
+   detected:
+
+
+
+#define BUTTON_PIN 5
+#define LED_PIN 10
+#define STANDBY 0
+#define ACTIVE 1
+#define WORKLIGHT_RELAY 9
+#define SENSOR_TRESHOLD 0
+//below are random pin numbers, need to adjust
+#define CAM_TRIGGER_PIN 11
+#define FLASH_TRIGGER_PIN 12
+#define SENSOR_PIN 13
+#define SENSOR_THRESHOLD 14
+
+int mode = STANDBY;
+long flashDelayMS = 10;
+
+//flashDelayMS should be adjusted to the type of sound to be detected.
+//popping balloon = 0
+//shattering glass = 10
+
+
+//start
+void setup() 
+{
+  pinMode(BUTTON_PIN, INPUT);
+  pinMode(CAM_TRIGGER_PIN, OUTPUT);
+  pinMode(FLASH_TRIGGER_PIN, OUTPUT);
+  pinMode(LED_PIN, OUTPUT);
+  digitalWrite(LED_PIN, HIGH);
+  pinMode(WORKLIGHT_RELAY, OUTPUT);
+  digitalWrite(LED_PIN, HIGH);
+  digitalWrite(WORKLIGHT_RELAY, HIGH); //turn the lights on
+  
+}
+
+void loop()
+{
+  if (digitalRead(BUTTON_PIN == HIGH))
+  {
+     mode = ACTIVE;
+     delay(1000); // settle time after button push
+     digitalWrite(LED_PIN, LOW);
+     digitalWrite(WORKLIGHT_RELAY, LOW); //turn lights off
+     delay(2000);
+     digitalWrite(LED_PIN, LOW); //ready state
+     digitalWrite(CAM_TRIGGER_PIN, HIGH); //camera shutter open
+  }
+  if ((mode == ACTIVE) && (analogRead(SENSOR_PIN) > SENSOR_THRESHOLD))
+  //if in ACTIVE mode and sense sound
+  {
+    delay(flashDelayMS);
+    digitalWrite(FLASH_TRIGGER_PIN, HIGH);
+    digitalWrite(FLASH_TRIGGER_PIN, HIGH); //fire flash
+    delay(50);
+    digitalWrite(FLASH_TRIGGER_PIN, LOW);
+    digitalWrite(CAM_TRIGGER_PIN, LOW); //close camera shutter
+    mode = STANDBY;
+    digitalWrite(LED_PIN, HIGH);
+    digitalWrite(WORKLIGHT_RELAY, HIGH); //turn lights back on
+  }
+} //end
+
+
+
+Some handy links to further tutorials on functionality of the Arduino:
+
+http://www.youtube.com/watch?v=fCxzA9_kg6s
+http://www.glacialwanderer.com/hobbyrobotics/?p=13
+
