@@ -16,8 +16,8 @@
    inkscape:version="0.48.1 "
    sodipodi:docname="ShiftRegister595.svg"
    inkscape:export-filename="D:\Programming\Freezer\wiki\images\ShiftRegister595.png"
-   inkscape:export-xdpi="100"
-   inkscape:export-ydpi="100">
+   inkscape:export-xdpi="80"
+   inkscape:export-ydpi="80">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -41,8 +41,8 @@
      fit-margin-bottom="0"
      inkscape:window-width="1456"
      inkscape:window-height="1172"
-     inkscape:window-x="223"
-     inkscape:window-y="115"
+     inkscape:window-x="8"
+     inkscape:window-y="108"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
