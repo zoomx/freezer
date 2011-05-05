@@ -38,4 +38,13 @@ The Arduino Nano has been chosen because it is small, can be controlled by a com
 Following a reference schema for the board.
 
 http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
+
+== Components ==
+
+ * 1 x Arduino Nano V3.0 AVR ATmega328 P-20AU USB board 3.0
+ * 2 x Shift register 74HC595
+ * 4 x Optoisolator LTV847
+ * 6 x 16 pin DIP socket
+
+
  
