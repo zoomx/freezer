@@ -48,6 +48,10 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
 
 == Links ==
 
+Arduino
+http://www.arduino.cc
+http://www.arduino.cc/en/Tutorial/ShiftOut
+
 Photoduino
 http://code.google.com/p/photoduino
 
