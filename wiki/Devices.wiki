@@ -48,6 +48,10 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  * 1 x  [http://ie.mouser.com/ProductDetail/Kemet/C320C104M5U5CA7301/?qs=sGAEpiMZZMuAYrNc52CMZC88u1mIuvbkaeORMiJvGuc%3d 0.1 μF capacitor]
  * 16 x 3.5mm Mono Jacks
 
+== Test schema ==
+
+http://freezer.googlecode.com/svn/wiki/images/CircuitSchema.png
+
 == Links ==
 
 Arduino
