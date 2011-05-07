@@ -51,7 +51,7 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  * 2 x  [http://ie.mouser.com/ProductDetail/Kemet/C320C104M5U5CA7301/?qs=sGAEpiMZZMuAYrNc52CMZC88u1mIuvbkaeORMiJvGuc%3d 0.1 μF capacitor] (maybe not required)
  * 16 x 3.5mm Mono Jacks
 
-== Test schema ==
+== Circuit schema with test LEDs ==
 
 http://freezer.googlecode.com/svn/wiki/images/CircuitSchema.png
 
