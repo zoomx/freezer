@@ -45,7 +45,7 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  * 2 x [http://ie.mouser.com/ProductDetail/Texas-Instruments/CD74HC595E/?qs=xFfolx0DHx1JFSNYY8Y%252bcg%3d%3d Shift register 74HC595]
  * 4 x [http://ie.mouser.com/ProductDetail/Lite-On/LTV-847/?qs=sGAEpiMZZMteimceiIVCBx3Y662pemTNEFNr76lpuig%3d LTV847 optoisolator ]
  * 6 x [http://ie.mouser.com/ProductDetail/Tyco-Electronics/1-390261-4/?qs=VZ9FDhhp7Sk4VC7kJdoJYg%3d%3d 16 pin DIP socket]
- * 16 x [http://ie.mouser.com/ProductDetail/Ohmite/OY221KE/?qs=sGAEpiMZZMvmQ%252bOLa8n%2fMwDpuo7zVz7iOkL0IoYlRZU%3d 220Ω resistors]
+ * 16 x [http://ie.mouser.com/ProductDetail/Ohmite/OY221KE/?qs=sGAEpiMZZMvmQ%252bOLa8n%2fMwDpuo7zVz7iOkL0IoYlRZU%3d 220Ω resistor]
  * 16 x [http://ie.mouser.com/ProductDetail/Lumex/SSL-LX3044GT/?qs=sGAEpiMZZMs4quMj8r4lmseJuVvjafN3ffkY8By3PB4%3d green LED]
  * 1 x  [http://ie.mouser.com/ProductDetail/Kemet/C320C104M5U5CA7301/?qs=sGAEpiMZZMuAYrNc52CMZC88u1mIuvbkaeORMiJvGuc%3d 0.1 μF capacitor]
  * 16 x 3.5mm Mono Jacks
