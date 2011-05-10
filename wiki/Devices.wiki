@@ -26,6 +26,12 @@ http://freezer.googlecode.com/svn/wiki/images/CameraLogic.png
 
 The camera focus/shutter button shares the same circuit of the stereo plug.
 
+Both the above schemes have been taken from [http://www.doc-diy.net/photo/eos_wired_remote/ www.doc-diy.net] and retested here for the Canon 550D. The measured values are equivalent to the ones in the table.
+
+|| Voltage (no load) || 3.3 V ||
+|| Threshold voltage || 1.8 V ||
+|| Short circuit current || 68 µA ||
+|| Current at threshold voltage || 30 µA ||
 
 == Arduino Nano ==
 
