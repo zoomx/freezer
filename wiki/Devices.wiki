@@ -2,13 +2,13 @@
 
 == Introduction ==
 
-This page contains a list of devices that should be controlled by Freezer.
+This page contains a list of devices that will be controlled by Freezer.
 
 == Details ==
 
 Multiple cameras Canon 550D
 
-Multiple pocket wizards.
+Multiple pocket wizards
 
 == Canon 550D schema ==
 
