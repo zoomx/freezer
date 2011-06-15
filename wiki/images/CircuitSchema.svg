@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="383.04598"
-     inkscape:cy="428.90189"
+     inkscape:zoom="1.4"
+     inkscape:cx="313.27953"
+     inkscape:cy="475.92176"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -210,7 +210,7 @@
          y="503.33759"
          x="139.2092"
          id="tspan4193-0-5-5-6"
-         sodipodi:role="line">220Ω</tspan></text>
+         sodipodi:role="line">47Ω</tspan></text>
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 405.43874,1060.3376 0,77"
@@ -7031,7 +7031,7 @@
        sodipodi:cy="507.38489"
        sodipodi:rx="3.8465464"
        sodipodi:ry="3.8465464"
-       d="m 54.859249,507.38489 a 3.8465464,3.8465464 0 1 1 -7.693092,0 3.8465464,3.8465464 0 1 1 7.693092,0 z"
+       d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
        transform="translate(116.05321,609.46543)"
        inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
        inkscape:export-xdpi="80"
@@ -7044,7 +7044,7 @@
        sodipodi:cy="507.38489"
        sodipodi:rx="3.8465464"
        sodipodi:ry="3.8465464"
-       d="m 54.859249,507.38489 a 3.8465464,3.8465464 0 1 1 -7.693092,0 3.8465464,3.8465464 0 1 1 7.693092,0 z"
+       d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
        transform="translate(116.19651,392.36634)"
        inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
        inkscape:export-xdpi="80"
