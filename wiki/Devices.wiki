@@ -59,9 +59,9 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
 
 Components under evaluation 
 
- * [http://ie.mouser.com/ProductDetail/Bourns/4116R-1-221LF/?qs=HO6k8Uo500nFG8aGDjOhHw%3d%3d 220Ω resistors network]
+ * [http://ie.mouser.com/ProductDetail/Bourns/4116R-1-221LF/?qs=HO6k8Uo500nFG8aGDjOhHw%3d%3d 220Ω resistors network] for the shift registers
 
-[http://ie.mouser.com/ProductDetail/Bourns/4116R-1-121LF/?qs=sGAEpiMZZMvrmc6UYKmaNbZDn6du4%252bd0Okb4g1cIC44%3d 120Ω resistors network]
+ * [http://ie.mouser.com/ProductDetail/Bourns/4116R-1-121LF/?qs=sGAEpiMZZMvrmc6UYKmaNbZDn6du4%252bd0Okb4g1cIC44%3d 120Ω resistors network] for the LEDs
 
 == Circuit schema with test LEDs ==
 
