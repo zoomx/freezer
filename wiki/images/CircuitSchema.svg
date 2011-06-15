@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="611.17618"
-     inkscape:cy="311.36843"
+     inkscape:zoom="2.8"
+     inkscape:cx="388.57377"
+     inkscape:cy="344.11603"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -61,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -606,9 +606,9 @@
     <path
        inkscape:connector-curvature="0"
        id="path9565-7-99-6"
-       d="m -22.29079,766.8375 35.494924,0 0,-41.71926 280.005076,-2e-5 0,48.7321 -21,0"
+       d="m -22.29079,774.12321 35.494924,0 0,-49.00497 280.005076,-2e-5 0,48.7321 -21,0"
        style="color:#000000;fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       sodipodi:nodetypes="cccc"
+       sodipodi:nodetypes="cccccc"
        inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
        inkscape:export-xdpi="80"
        inkscape:export-ydpi="80" />
