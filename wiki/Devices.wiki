@@ -57,7 +57,7 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  * 2 x  [http://ie.mouser.com/ProductDetail/Kemet/C320C104M5U5CA7301/?qs=sGAEpiMZZMuAYrNc52CMZC88u1mIuvbkaeORMiJvGuc%3d 0.1 μF capacitor] (maybe not required)
  * 16 x 3.5mm Mono Jacks
 
-* Under evaluation [http://ie.mouser.com/ProductDetail/Bourns/4116R-1-221LF/?qs=HO6k8Uo500nFG8aGDjOhHw%3d%3d 220Ω resistors network
+ * Under evaluation [http://ie.mouser.com/ProductDetail/Bourns/4116R-1-221LF/?qs=HO6k8Uo500nFG8aGDjOhHw%3d%3d 220Ω resistors network]
 
 == Circuit schema with test LEDs ==
 
