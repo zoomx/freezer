@@ -56,6 +56,7 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  * 16 x [http://ie.mouser.com/ProductDetail/Lumex/SSL-LX3044GT/?qs=sGAEpiMZZMs4quMj8r4lmseJuVvjafN3ffkY8By3PB4%3d green LED]
  * 2 x  [http://ie.mouser.com/ProductDetail/Kemet/C320C104M5U5CA7301/?qs=sGAEpiMZZMuAYrNc52CMZC88u1mIuvbkaeORMiJvGuc%3d 0.1 μF capacitor] (maybe not required)
  * 16 x 3.5mm Mono Jacks
+ * n x [http://ie.mouser.com/ProductDetail/Bourns/4608X-102-470LF/?qs=sGAEpiMZZMvrmc6UYKmaNRDegYSU8RrK6ALR2%252b0b52c%3d 47Ω resistor array] between shift registers and optoisolators.
 
 Components under evaluation 
 
