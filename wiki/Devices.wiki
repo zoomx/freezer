@@ -53,7 +53,7 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  * 6 x [http://ie.mouser.com/ProductDetail/Tyco-Electronics/1-390261-4/?qs=VZ9FDhhp7Sk4VC7kJdoJYg%3d%3d 16 pin DIP socket]
  * 16 x [http://ie.mouser.com/ProductDetail/Lumex/SSL-LX3044GT/?qs=sGAEpiMZZMs4quMj8r4lmseJuVvjafN3ffkY8By3PB4%3d green LED]
  * 2 x  [http://ie.mouser.com/ProductDetail/Kemet/C320C104M5U5CA7301/?qs=sGAEpiMZZMuAYrNc52CMZC88u1mIuvbkaeORMiJvGuc%3d 0.1 μF capacitor] (maybe not required)
- * 16 x 3.5mm Mono Jacks
+ * 16 x [http://ie.mouser.com/ProductDetail/Kycon/STX-3150-3CM/?qs=sGAEpiMZZMv0W4pxf2HiV%252bMrz3tI9gUV0Hk4TyfVWyY%3d 3.5mm Mono Jacks]
  * 2 x [http://ie.mouser.com/ProductDetail/Bourns/4608X-102-470LF/?qs=sGAEpiMZZMvrmc6UYKmaNRDegYSU8RrK6ALR2%252b0b52c%3d 47Ω resistor array] between shift registers and optoisolators
  * 16 x 120KΩ resistor] for the LEDs
 
