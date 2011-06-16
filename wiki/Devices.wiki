@@ -55,7 +55,7 @@ http://freezer.googlecode.com/svn/wiki/images/ArduinoNano30.png
  * 2 x  [http://ie.mouser.com/ProductDetail/Kemet/C320C104M5U5CA7301/?qs=sGAEpiMZZMuAYrNc52CMZC88u1mIuvbkaeORMiJvGuc%3d 0.1 μF capacitor] (maybe not required)
  * 16 x [http://ie.mouser.com/ProductDetail/Kycon/STX-3150-3CM/?qs=sGAEpiMZZMv0W4pxf2HiV%252bMrz3tI9gUV0Hk4TyfVWyY%3d 3.5mm Mono Jacks]
  * 2 x [http://ie.mouser.com/ProductDetail/Bourns/4608X-102-470LF/?qs=sGAEpiMZZMvrmc6UYKmaNRDegYSU8RrK6ALR2%252b0b52c%3d 47Ω resistor array] between shift registers and optoisolators
- * 16 x 120KΩ resistor] for the LEDs
+ * 16 x 1KΩ resistor for the LEDs
 
 Components under evaluation 
 
