@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="847.82129"
-   height="808.72791"
+   width="833.00952"
+   height="809.47791"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 "
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="313.27953"
-     inkscape:cy="475.92176"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="634.75743"
+     inkscape:cy="373.85571"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -69,7 +69,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(245.79079,-343.12241)">
+     transform="translate(245.79079,-342.37242)">
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 167.20921,1115.8503 0,-418.99998 21,0"
@@ -126,7 +126,7 @@
        inkscape:export-ydpi="80" />
     <path
        style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 287.06644,633.84269 118.79078,0.0245 0.20921,55.47046 98,0"
+       d="m 286.20921,633.85032 119,0 0,56 49,0"
        id="path4438-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc"
@@ -213,7 +213,7 @@
          sodipodi:role="line">47Ω</tspan></text>
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 405.43874,1060.3376 0,77"
+       d="m 307.43874,1116.8503 0,20.4873"
        id="path10080"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -222,7 +222,7 @@
        inkscape:export-ydpi="80" />
     <g
        id="g7200"
-       transform="translate(-21.561281,112.97531)"
+       transform="translate(-119.56128,112.97531)"
        style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
        inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
        inkscape:export-xdpi="80"
@@ -243,38 +243,9 @@
          d="m 420.0003,1038.3622 14.00001,0"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       id="1"
-       transform="translate(358.1669,1046.6794)"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80">
-      <text
-         style="font-size:14.99901485px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-         y="15.111267"
-         x="28"
-         xml:space="preserve"
-         id="2"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:14.99901485px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-           id="tspan10152">1µF</tspan></text>
-      <text
-         style="font-size:14.99901485px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Arial"
-         y="13.682712"
-         x="7.4995074"
-         xml:space="preserve"
-         id="3" />
-      <text
-         style="font-size:14.99901485px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Times New Roman"
-         y="13.682712"
-         x="25.348335"
-         xml:space="preserve"
-         id="4"> </text>
-    </g>
     <path
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -245.79079,1116.3376 847.48985,0.4999"
+       d="m -245.79079,1116.3376 833,0.5127"
        id="path10176"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -282,8 +253,8 @@
        inkscape:export-xdpi="80"
        inkscape:export-ydpi="80" />
     <path
-       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 601.69905,346.8375 -847.48984,-0.47143"
+       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 587.20921,346.8375 -833,-0.47143"
        id="path3733"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -391,16 +362,7 @@
        inkscape:export-ydpi="80" />
     <path
        style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 405.24985,689.36207 0,364.00003"
-       id="path7080"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80" />
-    <path
-       style="color:#000000;fill:none;stroke:#008000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 284.09691,836.33761 119,0"
+       d="m 286.20921,836.85032 119,0 0,-147"
        id="path7082"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -416,20 +378,7 @@
        sodipodi:rx="3.8465464"
        sodipodi:ry="3.8465464"
        d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
-       transform="translate(354.51273,181.95602)"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#008000;fill-opacity:1;stroke:none"
-       id="path3737-8-6-9"
-       sodipodi:cx="51.012703"
-       sodipodi:cy="507.38489"
-       sodipodi:rx="3.8465464"
-       sodipodi:ry="3.8465464"
-       d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
-       transform="translate(354.51286,328.95272)"
+       transform="translate(354.15559,182.31316)"
        inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
        inkscape:export-xdpi="80"
        inkscape:export-ydpi="80" />
@@ -442,7 +391,7 @@
        sodipodi:rx="3.8465464"
        sodipodi:ry="3.8465464"
        d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
-       transform="translate(354.42604,608.9526)"
+       transform="translate(256.42604,608.9526)"
        inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
        inkscape:export-xdpi="80"
        inkscape:export-ydpi="80" />
@@ -5083,132 +5032,6 @@
        inkscape:export-xdpi="80"
        inkscape:export-ydpi="80" />
     <g
-       id="g4755"
-       transform="translate(70.229514,27.999998)"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80">
-      <rect
-         transform="translate(-246,342.14698)"
-         y="683.21509"
-         x="567"
-         height="7"
-         width="28"
-         id="rect3985"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <path
-         transform="translate(-246,342.14698)"
-         inkscape:connector-curvature="0"
-         id="path3981"
-         d="m 567,683.21509 28,0"
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         transform="translate(-246,342.14698)"
-         inkscape:connector-curvature="0"
-         id="path3983"
-         d="m 567,690.21509 28,0"
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
-    <path
-       style="color:#000000;fill:none;stroke:#ff0000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 588.01016,346.36207 0,707.00003"
-       id="path4762"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80" />
-    <g
-       id="1-0"
-       transform="translate(541.68214,1046.6794)"
-       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80">
-      <text
-         style="font-size:14.99901485px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;fill:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-         y="15.111267"
-         x="28"
-         xml:space="preserve"
-         id="2-1"
-         sodipodi:linespacing="125%"><tspan
-           style="font-size:14.99901485px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
-           id="tspan10152-1">1µF</tspan></text>
-      <text
-         style="font-size:14.99901485px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Arial"
-         y="13.682712"
-         x="7.4995074"
-         xml:space="preserve"
-         id="3-8" />
-      <text
-         style="font-size:14.99901485px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;font-family:Times New Roman"
-         y="13.682712"
-         x="25.348335"
-         xml:space="preserve"
-         id="4-3"> </text>
-    </g>
-    <g
-       id="g4755-8"
-       transform="translate(253.03048,27.999998)"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80">
-      <rect
-         transform="translate(-246,342.14698)"
-         y="683.21509"
-         x="567"
-         height="7"
-         width="28"
-         id="rect3985-8"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      <path
-         transform="translate(-246,342.14698)"
-         inkscape:connector-curvature="0"
-         id="path3981-2"
-         d="m 567,683.21509 28,0"
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-      <path
-         transform="translate(-246,342.14698)"
-         inkscape:connector-curvature="0"
-         id="path3983-0"
-         d="m 567,690.21509 28,0"
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
-    <path
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 588.03048,1060.3621 0,56"
-       id="path4806"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;stroke:none"
-       id="path3737-0-4-1"
-       sodipodi:cx="51.012703"
-       sodipodi:cy="507.38489"
-       sodipodi:rx="3.8465464"
-       sodipodi:ry="3.8465464"
-       d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
-       transform="translate(536.72699,609.60607)"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#ff0000;fill-opacity:1;stroke:none"
-       id="path3737-0-1"
-       sodipodi:cx="51.012703"
-       sodipodi:cy="507.38489"
-       sodipodi:rx="3.8465464"
-       sodipodi:ry="3.8465464"
-       d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
-       transform="translate(537.08218,-160.29485)"
-       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
-       inkscape:export-xdpi="80"
-       inkscape:export-ydpi="80" />
-    <g
        id="g7979-0-2"
        transform="matrix(-1,0,0,-1,-288.29079,1791.1997)"
        style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
@@ -7046,6 +6869,34 @@
        sodipodi:ry="3.8465464"
        d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
        transform="translate(116.19651,392.36634)"
+       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
+       inkscape:export-xdpi="80"
+       inkscape:export-ydpi="80" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4191-2-9-8-8-1"
+       y="535.85034"
+       x="-203.79079"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+       xml:space="preserve"
+       inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
+       inkscape:export-xdpi="80"
+       inkscape:export-ydpi="80"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ff0000;fill-opacity:1;font-family:Times New Roman;-inkscape-font-specification:'Times New Roman,'"
+         y="535.85034"
+         x="-203.79079"
+         id="tspan4193-0-5-5-6-7"
+         sodipodi:role="line">1KΩ</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#ff0000;fill-opacity:1;stroke:none"
+       id="path3737-0-9"
+       sodipodi:cx="51.012703"
+       sodipodi:cy="507.38489"
+       sodipodi:rx="3.8465464"
+       sodipodi:ry="3.8465464"
+       d="m 54.859249,507.38489 c 0,2.12439 -1.722157,3.84654 -3.846546,3.84654 -2.124389,0 -3.846546,-1.72215 -3.846546,-3.84654 0,-2.12439 1.722157,-3.84655 3.846546,-3.84655 2.124389,0 3.846546,1.72216 3.846546,3.84655 z"
+       transform="translate(-282.89242,-161.16592)"
        inkscape:export-filename="D:\Programming\Freezer\wiki\images\CircuitSchema.png"
        inkscape:export-xdpi="80"
        inkscape:export-ydpi="80" />
