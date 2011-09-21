@@ -24,27 +24,7 @@
 
 #include "Freezer.h"
 
-byte stateInput1 = LOW;
-
-byte stateInput2 = LOW;
-
-// Bitmasks.
-unsigned int M0 = 1u;
-unsigned int M1 = 2u;
-unsigned int M2 = 4u;
-unsigned int M3 = 8u;
-unsigned int M4 = 16u;
-unsigned int M5 = 32u;
-unsigned int M6 = 64u;
-unsigned int M7 = 128u;
-unsigned int M8 = 256u;
-unsigned int M9 = 512u;
-unsigned int M10 = 1024u;
-unsigned int M11 = 2048u;
-unsigned int M12 = 4096u;
-unsigned int M13 = 8192u;
-unsigned int M14 = 16384u;
-unsigned int M15 = 32768u;
+byte stateInput = LOW;
 
 // This is the component used to control the circuit.
 Freezer freezer;
@@ -60,26 +40,13 @@ void loop() {
   
     // read the state of the pushbutton value:
     
-    stateInput1 = digitalRead(Freezer::INPUT1_PIN);
-    stateInput2 = digitalRead(Freezer::INPUT2_PIN);
+    stateInput = digitalRead(Freezer::INPUT1_PIN);
     
-    if (stateInput1 == HIGH || stateInput2 == HIGH) {
-        freezer.write(M0); delay(1);
-        freezer.write(M1); delay(2);
-        freezer.write(M2); delay(4);
-        freezer.write(M3); delay(8);
-        freezer.write(M4); delay(16);
-        freezer.write(M5); delay(32);
-        freezer.write(M6); delay(64);
-        freezer.write(M7); delay(128);
-        freezer.write(M8); delay(128);
-        freezer.write(M9); delay(64);
-        freezer.write(M10); delay(32);
-        freezer.write(M11); delay(16);
-        freezer.write(M12); delay(8);
-        freezer.write(M13); delay(4);
-        freezer.write(M14); delay(2);
-        freezer.write(M15); delay(1);
+    if (stateInput == HIGH) {
+        freezer.write(10922u); delay(100); // Activate
+        freezer.write(16383u); delay(100); // Shoot
+        freezer.write(65535u); delay(100); // Flash
+        freezer.write(0u); delay(200);     // Avoid multiple shots.
     } else {
         freezer.write(0u);
     }
