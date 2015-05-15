@@ -1,0 +1,1 @@
+The scope of this project is to create a triggering system of multiple DSRL cameras based on the Arduino hardware.
